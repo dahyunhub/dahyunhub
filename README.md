@@ -91,7 +91,7 @@
 - **저장 장소 · 댓글 · 사용자 기능** 구현 담당
 - `Java` · `Spring Boot` · `MySQL` · `Vue.js` 기반 팀 프로젝트
 
-🔗 _GitHub 이전 예정_
+🔗 **[GitHub Repository](https://github.com/dahyunhub/pickup)**
 
 ---
 
