@@ -1,23 +1,13 @@
 <div align="center">
 
-# 신다현 | Dahyun Shin
+### 사용자 문제를 서비스와 기술로 구체화하는 신다현입니다.
 
-### 사용자의 문제를 발견하고, 서비스와 백엔드로 해결합니다.
-
-Java · Spring Boot Backend &nbsp; | &nbsp; IT Service Planning
+IT Service Planning &nbsp; | &nbsp; Full-stack Development
 
 [![Email](https://img.shields.io/badge/Email-tls848%40naver.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tls848@naver.com)
 [![GitHub](https://img.shields.io/badge/GitHub-dahyunhub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/dahyunhub)
 
 </div>
-
----
-
-## 👋 About Me
-
-- 유치원 교사 경험을 바탕으로 **사용자의 실제 문제를 발견하고 정의**합니다.
-- 요구사항과 사용자 흐름을 설계하고 **동작하는 서비스로 구현**합니다.
-- Java · Spring Boot 기반의 **안정적인 백엔드와 검증 가능한 코드**를 지향합니다.
 
 ---
 
