@@ -1,17 +1,11 @@
 <div align="center">
 
 ### 사용자의 문제를 발견하고, 서비스로 설계하며, 기술로 구현합니다.
-
-[![GitHub](https://img.shields.io/badge/GitHub-dahyunhub-172033?style=flat-square&logo=github&logoColor=white)](https://github.com/dahyunhub)
-[![Email](https://img.shields.io/badge/Email-tls848%40naver.com-E86A4F?style=flat-square&logo=gmail&logoColor=white)](mailto:tls848@naver.com)
-
 </div>
-
-<br/>
 
 ---
 
-## Currently Building
+## Currently
 
 ### ONDO · 온도
 
@@ -22,8 +16,6 @@
 [서비스 만드는 과정 보기 →](https://github.com/dahyunhub/ondo)
 
 ---
-
-## Background
 
 ### 🎓 Education
 
@@ -39,7 +31,7 @@ SW·AI 기반의 서비스 기획과 개발, 팀 프로젝트 과정을 학습�
 
 ---
 
-## Tools I Work With
+## Tools
 
 **Plan & Design**
 
@@ -72,8 +64,6 @@ SW·AI 기반의 서비스 기획과 개발, 팀 프로젝트 과정을 학습�
 ---
 
 <div align="center">
-
-### Let's turn a problem into a product.
 
 **[GitHub](https://github.com/dahyunhub)** &nbsp;·&nbsp; **[Email](mailto:tls848@naver.com)**
 
