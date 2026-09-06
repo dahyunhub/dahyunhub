@@ -27,7 +27,8 @@ SW·AI 기반의 서비스 기획과 개발, 팀 프로젝트 과정을 학습�
 
 ### 📜 Certifications
 
-`SQLD` &nbsp; `ADsP`
+![SQLD](https://img.shields.io/badge/SQLD-4479A1?style=for-the-badge)
+![ADsP](https://img.shields.io/badge/ADsP-735DA5?style=for-the-badge)
 
 ---
 
